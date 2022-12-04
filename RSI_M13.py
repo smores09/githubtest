@@ -1,6 +1,7 @@
 import SmoresStockLib52e as ss
 import calendar
 
+# test
 
 datadir = './' 
 ss.SetDB(datadir, 'newyahoo')
